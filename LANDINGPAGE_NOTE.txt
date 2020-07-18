@@ -1,0 +1,11 @@
+TouchNot_App
+
+PROJECT APP IDEA: TouchNot App
+DESCRIPTION: The "TouchNot" App keeps record of the information of anyone that uses your laptop. It has the ability to pick up finger-prints on the "Touch-pad", "Mouse" and on the "Enter key '`keyCode ==13'`".
+The app tells;
+1. Who used your laptop via finger-print identification.
+2.  When (date/time) they used your laptop.
+3. Gives you the details of what they did with your system.
+
+
+https://www.figma.com/file/gMIZqzuNFCc8WXusBm7Idh/TouchNot?node-id=0%3A1
